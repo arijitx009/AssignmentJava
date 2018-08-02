@@ -7,6 +7,8 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+//main function to implement the program
+
 public class StudentTest {
 	
 	public static void main(String args[]) {
@@ -17,7 +19,7 @@ public class StudentTest {
 		
 		List<Student>arrayList=new ArrayList<Student>();
 		
-		arrayList.add(s1);
+		arrayList.add(s1);				//adding in the arraylist
 		arrayList.add(s2);
 		arrayList.add(s3);
 		arrayList.add(s4);

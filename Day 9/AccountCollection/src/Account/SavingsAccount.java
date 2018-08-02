@@ -1,6 +1,6 @@
 package Account;
 
-public class SavingsAccount implements Comparable<SavingsAccount> {
+public class SavingsAccount implements Comparable<SavingsAccount> {			//instance members
 	
 	private double acc_balance;
 	private int acc_ID;
